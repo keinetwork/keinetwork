@@ -1,14 +1,27 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeinetwork%2Fkeinetwork&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
   
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Backend%20Developer&fontSize=90&fontAlignY=30&desc=It's%20My%20World!&descSize=40"/>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keinetwork" style="float: left;  width: 40%; max-height=100%;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=keinetwork&hide=stars&count_private=true&show_icons=true&theme=radical" style="float: right;  width: 55%; max-height=100%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=keinetwork&hide=stars&count_private=true&show_icons=true&theme=radical&bg_color=DEG,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" style="float: right;  width: 55%; max-height=100%;"/>
 </p>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keinetwork)-->
 <!--![김영석's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keinetwork)-->
+---
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeinetwork%2Fkeinetwork&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div style="display: flex; align-items: flex-start;">
+<p align="center">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+</p>
+</div>
 
 <p align="center">
 <br>⚡Skills⚡<br>
@@ -36,4 +49,5 @@
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient" />
 </p>
