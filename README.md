@@ -1,9 +1,19 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkeinetwork%2Fkeinetwork&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Backend%20Developer&fontSize=90&fontAlignY=30&desc=It's%20My%20World!&descSize=40" />
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keinetwork" />
-<img src="https://github-readme-stats.vercel.app/api?username=keinetwork&hide=stars&count_private=true&show_icons=true&theme=radical">
+<div>
+<div style="float: left; width: 5%;">&nbsp;</div>
+<div style="float: left; width: 40%; max-height=100px">
+<div style="float: right; width: 1%;">&nbsp;</div>
+<div style="float: right; width: 80%;">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keinetwork" style="float: right;  max-width: 100%; max-height=100%;"/></div>
+</div>
+<div style="float: left; width: 50%; max-height=100px">
+<div style="float: left; width: 90%;">
+<img src="https://github-readme-stats.vercel.app/api?username=keinetwork&hide=stars&count_private=true&show_icons=true&theme=radical" style="float: left;  max-width: 100%; max-height=100%;"/></div>
+</div>
+<div style="float: left; width: 5%;">&nbsp;</div>
+</div>
 </p>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keinetwork)-->
 <!--![김영석's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keinetwork)-->
