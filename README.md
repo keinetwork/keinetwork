@@ -49,5 +49,11 @@
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" />
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" />
+</p>
+
+---
+<p align="center">
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient" />
 </p>
