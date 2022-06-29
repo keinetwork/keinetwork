@@ -52,8 +52,10 @@
 </p>
 
 ---
-<p align="center">
 
+<details>
+<summary>WakaTime</summary>
+<div markdown="1">
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2010%20mins-blue)
@@ -136,5 +138,8 @@ Java                     3 repos             ███████████�
 
  Last Updated on 29/06/2022 04:39:03 UTC
 <!--END_SECTION:waka-->
+</div>
+</details>
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient" />
 </p>
