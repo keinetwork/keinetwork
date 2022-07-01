@@ -56,6 +56,7 @@
 <details>
 <summary>WakaTime</summary>
 <div markdown="1">
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
