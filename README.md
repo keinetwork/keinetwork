@@ -58,9 +58,9 @@
 <div markdown="1">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **저는 아침형 인간이에요. 🐤** 
 
@@ -127,7 +127,7 @@ Java                     3 repos             ███████████�
 ![Chart not found](https://raw.githubusercontent.com/keinetwork/keinetwork/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/08/2022 18:51:59 UTC
+ Last Updated on 20/08/2022 18:47:05 UTC
 <!--END_SECTION:waka-->
 </div>
 </details>
