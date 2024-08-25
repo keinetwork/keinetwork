@@ -2,9 +2,14 @@
   
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=Backend%20Developer&fontSize=90&fontAlignY=30&desc=It's%20My%20World!&descSize=40"/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keinetwork" style="float: left;  width: 40%; max-height=100%;"/>
-<img src="https://github-readme-stats.vercel.app/api?username=keinetwork&hide=stars&count_private=true&show_icons=true&theme=radical&bg_color=DEG,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" style="float: right;  width: 55%; max-height=100%; visibility:hidden;"/>
 </p>
+<div align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keinetwork" 
+        style="float: left;  width: 40%; max-height:100%;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=keinetwork&hide=stars&count_private=true&show_icons=flase&theme=radical&bg_color=FFF,FFFF,FFFF,FFFF&title_color=fff&text_color=fff&border_color=ffffff"
+      style="float: right;  width: 55%; max-height:100%;"
+      style="visibility:hidden; ">
+</div>
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keinetwork)-->
 <!--![김영석's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keinetwork)-->
